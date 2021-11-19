@@ -9,5 +9,6 @@ public class MyWordTranslator {
     System.out.println(output.createPhoneticVersion());
     //uses HawaiianWord method and turns user input into new output
         //
+        //
 }
 }

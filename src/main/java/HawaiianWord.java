@@ -26,6 +26,7 @@ public class HawaiianWord {
     public String createPhoneticVersion() {
         String tempWord = word;
 //
+        //
         for (int i = 0; i <= word.length(); i++) {
 
             StringBuilder string = new StringBuilder(word);
